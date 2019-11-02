@@ -1,7 +1,14 @@
 # lab-10
 Authentication
 
+* ![Travic-cs](http://xyz.com)
+* ![Heroku](http://xyz.com)
+* ![SubmissionPR](http://xyz.com)
 
+#### Instructions for how to run your application
+  * npm start
+#### Instructions for how to test your application
+ * npm test
 
 
 
