@@ -20,3 +20,6 @@ Authentication
   * What are the pros and cons of setting res.cookie?
   * ans: pros: it helps the user a client from re authenticate process every time to use the website
        cons:  Security issue by exposing the login information 
+
+  * What does .isModified do and why do we use it?
+    * Ans: It modifies data and it is used to modify user password by hashing and bcrypt 
