@@ -30,3 +30,13 @@ Authentication
   * everytime a user tries to signin compare thier credentials with the stored hashed password 
   
 
+
+
+
+* ![UML](POST&GET.jpg)
+
+
+
+
+
+
