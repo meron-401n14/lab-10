@@ -2,7 +2,7 @@
 Authentication
 
 * [Travic-cs](https://www.travis-ci.com/meron-401n14/lab-10)
-* [Heroku](https://lab-10-authentication.herokuapp.com/)
+* [Heroku](https://auth-lab10.herokuapp.com/)
 * [SubmissionPR](https://github.com/meron-401n14/lab-10/pull/1)
 
 #### Instructions for how to run your application
